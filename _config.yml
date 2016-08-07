@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "http://altao2017.github.io/lala1/gallery/"  
-  - JOURNAL: "http://altao2017.github.io/lala1/welcome/"
+  - JOURNAL: "http://altao2017.github.io/lala1/journal/"
   - ABOUT: "http://altao2017.github.io/lala1/about/"
 
 # All translation keys
