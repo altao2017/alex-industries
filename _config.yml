@@ -1,12 +1,12 @@
 # Site settings
-title: Welcome To Ocean View
+title: Welcome To A.L.T.A.O.
 email: "a1exbubalo@protonmail.com"
 description: "Dreaming , Traveling Friendship"
-url: "http://altao2017.github.io"
-baseurl: "/myphotorama"
+url: "http://altao2017.github.io/lala1"
+baseurl: "/lala1"
 facebook_username: "a1ex.bubalo"
 twitter_username: ""
-instagram_username: "a1ex.summerland"
+instagram_username: "alex.industries"
 github_username:  "altao2017"
 deviantart_username: ""
 flickr_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   a1ex.summerland
+  name:   A.L.T.A.O.- Industries
   avatar: avatar.png
   favicon: favicon.ico
-  info: A1ex-Oceanview 2016.All copyrights reserved
+  info: A.L.T.A.O.- Industries 2016.All copyrights reserved
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://altao2017.github.io/myphotorama/gallery/"  
-  - JOURNAL: "http://altao2017.github.io/myphotorama/journal/"
-  - ABOUT: "http://altao2017.github.io/myphotorama/about/"
+  - GALLERY: "http://altao2017.github.io/lala1/gallery/"  
+  - JOURNAL: "http://altao2017.github.io/lala1/journal/"
+  - ABOUT: "http://altao2017.github.io/lala1/about/"
 
 # All translation keys
 translations:
