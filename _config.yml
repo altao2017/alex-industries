@@ -3,7 +3,7 @@ title: Welcome To A.L.T.A.O.
 email: "a1exbubalo@protonmail.com"
 description: "Dreaming , Traveling Friendship"
 url: "http://altao2017.github.io"
-baseurl: "/lala1"
+baseurl: "/alex-industries"
 facebook_username: "a1ex.bubalo"
 twitter_username: ""
 instagram_username: "alex.industries"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://altao2017.github.io/lala1/gallery/"  
-  - JOURNAL: "http://altao2017.github.io/lala1/journal/"
-  - ABOUT: "http://altao2017.github.io/lala1/about/"
+  - GALLERY: "http://altao2017.github.io/alex-industries/gallery/"  
+  - JOURNAL: "http://altao2017.github.io/alex-industries/journal/"
+  - ABOUT: "http://altao2017.github.io/alex-industries/about/"
 
 # All translation keys
 translations:
